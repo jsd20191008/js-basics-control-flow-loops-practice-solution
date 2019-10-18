@@ -1,5 +1,4 @@
-
-# Homework #1: JavaScript Basics, Control Flow & Loops
+# JavaScript Basics, Control Flow & Loops Practice
 
 
 To complete this assignment, do the following:
